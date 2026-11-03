@@ -1,4 +1,4 @@
-8# SilentStudio-ProjectList
+# SilentStudio-ProjectList
 
 > We offer multilingual support. Below are the languages that have been translated.
 > We apologize for the languages that are not yet supported.

@@ -6,7 +6,7 @@ SilentStudio 公開プロジェクトリスト、紹介と索引
 
 | プロジェクト名 | 技術スタック | ステータス | 简介 |
 |----------|--------|------|------|
-| [SlimeMold](https://github.com/Silent-Studio-CN/SlimeMold) | Python 3.10+ | リリース済み | 粘菌に着想を得た軽量経路計画ライブラリ（BFS + 重み付き確率的探索）|
+| [SlimeMold](https://github.com/SilentCodeTeams/SlimeMold) | Python 3.10+ | リリース済み | 粘菌に着想を得た軽量経路計画ライブラリ（BFS + 重み付き確率的探索）|
 
 
 ## セキュリティポリシー

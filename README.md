@@ -6,9 +6,9 @@
 <details>
 <summary>🌐 Supported Languages</summary>
 
-- [en_US](https://github.com/Silent-Studio-CN/SilentStudio-ProjectList/tree/main/en_US) · English (US)
-- [ja-JP](https://github.com/Silent-Studio-CN/SilentStudio-ProjectList/tree/main/ja-JP) · 日本語 (日本)
-- [ru-RU](https://github.com/Silent-Studio-CN/SilentStudio-ProjectList/tree/main/ru-RU) · Русский (Россия)
+- [en_US](https://github.com/SilentCodeTeams/SilentStudio-ProjectList/tree/main/en_US) · English (US)
+- [ja-JP](https://github.com/SilentCodeTeams/SilentStudio-ProjectList/tree/main/ja-JP) · 日本語 (日本)
+- [ru-RU](https://github.com/SilentCodeTeams/SilentStudio-ProjectList/tree/main/ru-RU) · Русский (Россия)
 
 </details>
 
@@ -19,7 +19,7 @@ SilentStudio 公开项目列表、简介与索引
 
 | 项目名称 | 技术栈 | 状态 | 简介 |
 |----------|--------|------|------|
-| [SlimeMold](https://github.com/Silent-Studio-CN/SlimeMold) | Python 3.10+ | 已发布 | 黏菌启发的轻量级路径规划库（BFS + 加权概率爬行）|
+| [SlimeMold](https://github.com/SilentCodeTeams/SlimeMold) | Python 3.10+ | 已发布 | 黏菌启发的轻量级路径规划库（BFS + 加权概率爬行）|
 
 
 ## 安全政策

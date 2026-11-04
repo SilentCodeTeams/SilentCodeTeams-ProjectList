@@ -7,7 +7,7 @@ Public project list, brief introductions and indexes of SilentStudio
 
 | Project Name | Technology Stack | Status | Description |
 |--------------|------------------|--------|-------------|
-| [SlimeMold](https://github.com/Silent-Studio-CN/SlimeMold) | Python 3.10+ | Released | Slime mold inspired lightweight pathfinding library (BFS + weighted random crawl) |
+| [SlimeMold](https://github.com/SilentCodeTeams/SlimeMold) | Python 3.10+ | Released | Slime mold inspired lightweight pathfinding library (BFS + weighted random crawl) |
 
 
 ## Security Policy

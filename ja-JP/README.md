@@ -1,4 +1,4 @@
-# SilentStudio-ProjectList
+# SilentCodeTeams-ProjectList
 
 SilentStudio 公開プロジェクトリスト、紹介と索引
 

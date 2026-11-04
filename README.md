@@ -1,4 +1,4 @@
-# SilentStudio-ProjectList
+# SilentCodeTeams-ProjectList
 
 > We offer multilingual support. Below are the languages that have been translated.
 > We apologize for the languages that are not yet supported.
@@ -6,9 +6,9 @@
 <details>
 <summary>🌐 Supported Languages</summary>
 
-- [en_US](https://github.com/SilentCodeTeams/SilentStudio-ProjectList/tree/main/en_US) · English (US)
-- [ja-JP](https://github.com/SilentCodeTeams/SilentStudio-ProjectList/tree/main/ja-JP) · 日本語 (日本)
-- [ru-RU](https://github.com/SilentCodeTeams/SilentStudio-ProjectList/tree/main/ru-RU) · Русский (Россия)
+- [en_US](https://github.com/SilentCodeTeams/SilentCodeTeams-ProjectList/tree/main/en_US) · English (US)
+- [ja-JP](https://github.com/SilentCodeTeams/SilentCodeTeams-ProjectList/tree/main/ja-JP) · 日本語 (日本)
+- [ru-RU](https://github.com/SilentCodeTeams/SilentCodeTeams-ProjectList/tree/main/ru-RU) · Русский (Россия)
 
 </details>
 

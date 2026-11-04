@@ -1,4 +1,4 @@
-# SilentStudio-ProjectList
+# SilentCodeTeams-ProjectList
 
 Public project list, brief introductions and indexes of SilentStudio
 
